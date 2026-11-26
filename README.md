@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978?utm_source=github&utm_medium=readme&utm_campaign=tell-a-whole-story-in-32-characters)
 [![rank](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/zp1206849221-sketch/tell-a-whole-story-in-32-characters/rank.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978?utm_source=github&utm_medium=readme&utm_campaign=tell-a-whole-story-in-32-characters)
-[![reward](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/reward.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978?utm_source=github&utm_medium=readme&utm_campaign=tell-a-whole-story-in-32-characters)
+[![reward](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/zp1206849221-sketch/tell-a-whole-story-in-32-characters/reward.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978?utm_source=github&utm_medium=readme&utm_campaign=tell-a-whole-story-in-32-characters)
 
 # Tell a Whole Story in 32 Characters
 
